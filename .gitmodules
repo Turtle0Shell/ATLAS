@@ -1,0 +1,3 @@
+[submodule "atlas-bronze-collector"]
+	path = atlas-bronze-collector
+	url = https://github.com/Turtle0Shell/atlas-bronze-collector
